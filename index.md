@@ -43,7 +43,7 @@ vim<space>L<tab>.<tab><enter>
 :15llllllllllllllli<delete><delete><delete>
 ?index1<enter>lllllr2<esc>:wq<enter>
 ```
-Summary: Opened ListExamples.java in vim mode using autocomplete. Searched for "index1" stating from the bottom, moved cursor 5 steps right, and replaced the character the cursor was on with 2. Then entered normal mode and saved and quit vim mode. 
+Summary: Opened ListExamples.java in vim mode using autocomplete. Went to line 15 and then deleted "0, " to fix the add method. The searched for "index1" stating from the bottom, moved cursor 5 steps right, and replaced the character the cursor was on with 2. Then entered normal mode and saved and quit vim mode. 
 
 ## Run the tests, demonstrating that they now succeed
 
