@@ -40,7 +40,7 @@ Summary: Changed working directory to lab7 and used tab to autocomplete. Then ra
 Keys Pressed:
 ```
 vim<space>L<tab>.<tab><enter>
-bash<space>t<tab><enter>
+:15llllllllllllllli<delete><delete><delete>
 ?index1<enter>lllllr2<esc>:wq<enter>
 ```
 Summary: Opened ListExamples.java in vim mode using autocomplete. Searched for "index1" stating from the bottom, moved cursor 5 steps right, and replaced the character the cursor was on with 2. Then entered normal mode and saved and quit vim mode. 
